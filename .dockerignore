@@ -1,0 +1,12 @@
+# .dockerignore File
+# Exclude some Foders
+**/infrastructure
+**/app
+**/.git
+
+# Exclude some Files
+.gitignore
+.dockerignore
+node_modules
+commands.sh
+Dockerfile
