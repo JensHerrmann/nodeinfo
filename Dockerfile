@@ -1,5 +1,5 @@
 FROM node:alpine
-RUN apt-get update && apt-get upgrade -y
+RUN apk add --update nodejs npm
 ENV NODE_ENV production
 USER node
 WORKDIR /home/node
