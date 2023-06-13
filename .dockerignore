@@ -9,4 +9,4 @@
 .dockerignore
 node_modules
 commands.sh
-Dockerfile
+Dockerfile*
