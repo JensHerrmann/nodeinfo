@@ -1,1 +1,1 @@
-docker build -t jensherrmann/nodeinfo2 .
+docker build -t jensherrmann/nodeinfo .
